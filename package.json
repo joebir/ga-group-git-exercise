@@ -1,0 +1,23 @@
+{
+  "name": "ga-group-git-exercise",
+  "version": "1.0.0",
+  "description": "Joe Bir\r **David Kelly**\r **Ian Ramos**",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joebir/ga-group-git-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joebir/ga-group-git-exercise/issues"
+  },
+  "homepage": "https://github.com/joebir/ga-group-git-exercise#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
